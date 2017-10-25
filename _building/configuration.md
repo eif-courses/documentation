@@ -22,16 +22,3 @@ See in-depth details for configuring [Environments](/building/environments/) and
 
 ![Site Settings Build Interface](/img/building/configuration.png){: srcset="/img/building/configuration.png 800w, /img/building/configuration@2x.png 1600w"}
 {: .has-screenshot}
-
----
-
-### Gemfile outside the root
-
-CloudCannon runs `bundle install` on the root of your site. If your `Gemfile` isn't in the root (this usually happens when you are using a custom source directory), you need set the `BUNDLE_GEMFILE` [environment variable](/building/environments/) to tell the bundler where to find it.
-
-```
-BUNDLE_GEMFILE = my/custom/directory/Gemfile
-```
-
-Setting the `BUNDLE_GEMFILE` environment variable requires that your gems are specified in the `_config.yml` file.
-{: .warning}
