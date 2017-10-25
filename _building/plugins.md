@@ -29,16 +29,3 @@ end
 
 It's good practice to set your versions. Otherwise, Jekyll uses the latest version which could introduce breaking changes in future builds.
 {: .info}
-
----
-
-### Gemfile path
-
-CloudCannon runs `bundle install` in the root folder of your site. If your `Gemfile` isn't in the root (this usually happens when you are using a custom source directory), you need set the `BUNDLE_GEMFILE` [environment variable](/building/environments/) to tell the Bundler where to find it.
-
-```
-BUNDLE_GEMFILE = my/custom/directory/Gemfile
-```
-
-Setting the `BUNDLE_GEMFILE` environment variable requires that your gems are specified in the `_config.yml` file.
-{: .info}
