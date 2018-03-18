@@ -1,6 +1,6 @@
 ---
 title: Plugins
-category: Building
+category: Praktinės užduotys
 order: 4
 requirements:
   build: Jekyll

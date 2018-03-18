@@ -1,6 +1,6 @@
 ---
 title: Optimisations
-category: Building
+category: Praktinės užduotys
 order: 7
 requirements:
   build: Any

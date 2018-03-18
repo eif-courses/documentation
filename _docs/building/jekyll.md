@@ -1,6 +1,6 @@
 ---
 title: 1 užduotis
-category: Building
+category: Praktinės užduotys
 order: 1
 ---
 

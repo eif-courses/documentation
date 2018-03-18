@@ -1,6 +1,6 @@
 ---
 title: 3 užduotis
-category: Building
+category: Praktinės užduotys
 order: 4
 requirements:
   build: Jekyll

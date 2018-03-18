@@ -1,6 +1,6 @@
 ---
 title: Environments
-category: Building
+category: Praktinės užduotys
 order: 9
 requirements:
   build: Jekyll

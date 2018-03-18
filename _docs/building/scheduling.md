@@ -1,6 +1,6 @@
 ---
 title: Scheduling
-category: Building
+category: Praktinės užduotys
 order: 6
 requirements:
   build: Any
