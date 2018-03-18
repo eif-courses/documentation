@@ -9,6 +9,7 @@ Kintamasis (angl. variable) final - uždrausti keisti reikšmę. (t.y. Galima in
 {% highlight html %}
 
 {% raw %}
+
 public static final int KONSTANTA = 315;
 private final String SAVININKAS= "Lietuvos bankas";
 private final int ID; // Incijuoti ID galima tik per konstruktorių vieną kartą!
@@ -22,11 +23,13 @@ public Parduotuve(String pavadinimas, String adresas, int ID) {
 {% endraw %}
 
 {% endhighlight %}
+
 Metodas (angl. method) final - uždrausti metodą paskelbtą **final** perrašyti (@Override) paveldėjusioje klasėje.
 
 {% highlight html %}
 
 {% raw %}
+
 // Pagrindinė tėvinė klasė su final metodu
 class Bankas{
 	public final void balansas(int id){
