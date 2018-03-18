@@ -1,5 +1,5 @@
 ---
-title: Configuration
+title: 3 užduotis
 category: Building
 order: 4
 requirements:

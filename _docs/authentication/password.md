@@ -1,5 +1,5 @@
 ---
-title: Password
+title: Vertinimo kriterijai
 category: Authentication
 order: 2
 requirements:

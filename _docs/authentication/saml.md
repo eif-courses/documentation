@@ -1,5 +1,5 @@
 ---
-title: SAML
+title: Rezultatai
 category: Authentication
 order: 4
 requirements:
