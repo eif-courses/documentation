@@ -1,17 +1,15 @@
 ---
+
 title: Įvadas
 category: Teorija
 order: 1
-requirements:
-  build: Any
-  plan: Free
-  hosting: CloudCannon
+
 ---
 
+- Hello new article.
+
 {% highlight html %}
-
 {% raw %}
-
 import java.util.*;  
 class TestAnnotation2{  
 @SuppressWarnings("unchecked")  
@@ -24,9 +22,8 @@ class TestAnnotation2{
 			System.out.println(obj);  
   
 	}
-}  
+}
 {% endraw %}
-
 {% endhighlight %}
 
 Every site on CloudCannon has a matching ***.cloudvent.net** URL. Use this to test your live site at any stage.
