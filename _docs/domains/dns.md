@@ -1,6 +1,6 @@
 ---
-title: DNS
-category: Domains
+title: Kolekcijos
+category: Teorija
 order: 4
 requirements:
   build: Any

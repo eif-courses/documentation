@@ -1,6 +1,6 @@
 ---
-title: Custom Domains
-category: Domains
+title: Raktinis žodis final
+category: Teorija
 order: 2
 requirements:
   build: Any

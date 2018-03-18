@@ -1,6 +1,6 @@
 ---
-title: Subdomains
-category: Domains
+title: Išimčių apdorojimo mechanizmas
+category: Teorija
 order: 3
 requirements:
   build: Any
