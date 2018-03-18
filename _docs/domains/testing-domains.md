@@ -8,12 +8,6 @@ requirements:
   hosting: CloudCannon
 ---
 
-werrawrarawra
-awea
-endhighlightawe
-addea
-aweae
-
 {% highlight html %}
 
 {% raw %}
