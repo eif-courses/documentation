@@ -6,9 +6,7 @@ order: 2
 
 Kintamasis (angl. variable) final - uždrausti keisti reikšmę. (t.y. Galima inicializuoti tik vieną kartą šio kintamojo reikšmę).
 
-{% highlight html %}
-
-{% raw %}
+```java
 
 public static final int KONSTANTA = 315;
 private final String SAVININKAS= "Lietuvos bankas";
@@ -19,16 +17,11 @@ public Parduotuve(String pavadinimas, String adresas, int ID) {
    this.adresas = adresas;
    this.ID = ID;
 }
-
-{% endraw %}
-
-{% endhighlight %}
+```
 
 Metodas (angl. method) final - uždrausti metodą paskelbtą **final** perrašyti (@Override) paveldėjusioje klasėje.
 
-{% highlight html %}
-
-{% raw %}
+```java
 
 // Pagrindinė tėvinė klasė su final metodu
 class Bankas{
@@ -46,9 +39,6 @@ class Bankomatas extends Bankas{
 	}
 	
 }
-
-{% endraw %}
-
-{% endhighlight %}
+```
 
 Klasė (angl. class) final - uždrausti paveldėti klasę.
