@@ -14,7 +14,7 @@ endhighlightawe
 addea
 aweae
 
-{% highlight java %}
+{% highlight html %}
 
 {% raw %}
 import java.util.*;  
