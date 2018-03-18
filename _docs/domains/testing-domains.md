@@ -3,7 +3,7 @@ title: Įvadas
 category: Teorija
 order: 1
 ---
-{% highlighter html %}
+{% highlight html %}
 import java.util.*;  
 class TestAnnotation2{  
 @SuppressWarnings("unchecked")  
@@ -17,7 +17,7 @@ for(Object obj:list)
 System.out.println(obj);  
   
 }}  
-{% endhighlighter %}
+{% endhighlight %}
 Every site on CloudCannon has a matching ***.cloudvent.net** URL. Use this to test your live site at any stage.
 
 Testing domains are generated with an adjective and a noun. For example: **red-lobster.cloudvent.net** or **fast-bean.cloudvent.net**.
