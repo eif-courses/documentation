@@ -68,7 +68,7 @@
  .vg { color: #000000 } /* Name.Variable.Global */
  .vi { color: #000000 } /* Name.Variable.Instance */
  .il { color: #0000cf; font-weight: bold } /* Literal.Number.Integer.Long */
- }
+ 
 	.bash .nv {
 		-webkit-user-select: none;
 		-moz-user-select: none;
@@ -79,4 +79,4 @@
 	.language-bash & .nb {
 	    color: #99D4FF;
 	}
-
+}
